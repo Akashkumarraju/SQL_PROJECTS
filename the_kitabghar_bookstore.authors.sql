@@ -1,0 +1,1 @@
+SELECT * FROM the_kitabghar_bookstore.authors;
